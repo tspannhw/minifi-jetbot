@@ -8,3 +8,4 @@ https://github.com/tspannhw/minifi-xaviernx/
 
 https://github.com/tspannhw/minifi-jetson-nano
 
+https://github.com/dusty-nv/jetson-inference/blob/master/docs/aux-streaming.md
